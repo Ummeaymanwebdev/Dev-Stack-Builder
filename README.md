@@ -4,6 +4,8 @@ Description
 
 Its a React app where i can explore frontend, backend, database, language, styling, DevOps and tooling options, then pick the ones i like to build my own ideal development stack. The technology data is loaded from a JSON file.Users can view technology details and add, remove, or manage their selected technologies in a personal stack.
 
+Live link- https://my-react-assignment5.vercel.app/      Github link- https://github.com/Ummeaymanwebdev/Dev-Stack-Builder
+
 
 Technologies Used
 
